@@ -1,0 +1,12 @@
+git init {ініціалізація проекту} виконуеться оин раз при створенні проєкту
+git add . статус перед комітом зелений
+git commit -m "start project" 
+git push у випадку коли акаунти вже пов язані
+git remote add origin https://github.com/AntonZabihailo/agroton.git (перший раз при створенні)
+git push -u origin master
+
+
+git status
+git add .
+git commit -m "start project!!!!" 
+git push
